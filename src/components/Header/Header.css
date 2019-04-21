@@ -1,0 +1,20 @@
+.main-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+  
+.nav-img {
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+  
+.nav-link:active, .nav-link:hover {
+    background-color: lightblue;
+}
+  
+.activeRoute {
+    background-color: lightblue;
+}

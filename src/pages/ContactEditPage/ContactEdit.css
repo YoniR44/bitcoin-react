@@ -1,0 +1,27 @@
+.edit-nav {
+    margin: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.back-btn {
+    cursor: pointer;
+}
+
+.input-item {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+}
+
+.input {
+    padding: 5px;
+    border-radius: 5px;
+    width: 65vw;
+}
+
+.btn {
+    margin: 15px;
+    float: right;
+}

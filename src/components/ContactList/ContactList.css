@@ -1,0 +1,13 @@
+.contacts-list-item {
+    margin: 10px 0; 
+}
+
+.add-contact-btn {
+    position: fixed;
+    bottom: 10px; 
+    right: 10px;
+}
+
+.add-contact-btn:hover {
+    cursor: pointer;
+}

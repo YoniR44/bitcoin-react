@@ -1,0 +1,17 @@
+.transfer-fund {
+    background-color: lightblue;
+    margin: 15px;
+    text-align: left;
+    padding: 15px;
+}
+
+.transfer-form {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+
+.transfer-input {
+    margin: 0 10px;
+    width: 100px;
+}
